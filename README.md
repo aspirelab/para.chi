@@ -12,7 +12,9 @@ WordPress template and guide for creating a [para.chi](https://aspirelab.io/para
 - Download the [export file from this repository](https://github.com/aspirelab/para.chi/blob/main/parachitokyo.WordPress.2024-01-13.xml)
 - On your WordPress admin page, go to `Tools` > `Import` > `WordPress` (at the bottom) to upload and process the export file
 - Customize the images and content via `Appearance` > `Theme Settings` > `Edit front page` aka the WordPress Site Editor
-- Optional: Add this code to the `Custom CSS & JS` > `Add custom CSS` page: 
-    html {
-        scroll-behavior: smooth;
-    }
+- Optional: Add this code to the `Custom CSS & JS` > `Add custom CSS` page:
+```
+html {
+    scroll-behavior: smooth;
+}
+```
