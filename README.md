@@ -9,7 +9,7 @@ WordPress template and guide for creating a [para.chi](https://aspirelab.io/para
 
 # How-to
 - Install and activate the theme and optional plugin
-- Download the [export file from this repository](https://github.com/aspirelab/para.chi/blob/main/parachitokyo.WordPress.2024-01-13.xml)
+- Download the [export file from this repository](https://github.com/aspirelab/para.chi/blob/main/parachitokyo.WordPress.2024-02-01.xml) (or the [old one, if needed](https://github.com/aspirelab/para.chi/blob/main/parachitokyo.WordPress.2024-01-13.xml))
 - On your WordPress admin page, go to `Tools` > `Import` > `WordPress` (at the bottom) to upload and process the export file
 - Customize the images and content via `Appearance` > `Theme Settings` > `Edit front page` aka the WordPress Site Editor
 - Optional: Add this code to the `Custom CSS & JS` > `Add custom CSS` page:
